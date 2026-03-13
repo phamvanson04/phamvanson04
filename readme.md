@@ -44,6 +44,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phamvanson04&hide_border=true" alt="GitHub streak" />
 </p>
 
+## Contribution snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phamvanson04/phamvanson04/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phamvanson04/phamvanson04/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/phamvanson04/phamvanson04/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 ## Visitor count
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=phamvanson04.phamvanson04" alt="Visitor badge" />
