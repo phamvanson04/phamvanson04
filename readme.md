@@ -71,16 +71,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/216655827-7404f955-6f29-4685-b1a7-ff3b3f43d0d1.gif" width="140" alt="sticker 3" />
 </div>
 
-## GitHub Analytics
-<div align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=phamvanson04&show_icons=true&rank_icon=github&hide_border=true&title_color=0ea5e9&icon_color=f59e0b" alt="stats" />
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamvanson04&layout=compact&hide_border=true&title_color=0ea5e9" alt="top langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phamvanson04&hide_border=true&ring=22c55e&fire=f59e0b&currStreakLabel=0ea5e9" alt="streak" />
-</div>
-
 ## Contribution Snake
 <div align="center">
   <picture>
