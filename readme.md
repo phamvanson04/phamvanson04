@@ -63,12 +63,21 @@
   <img src="https://img.shields.io/badge/Bug%20Hunter-%F0%9F%94%8D-f43f5e?style=for-the-badge" alt="bug hunter" />
   <img src="https://img.shields.io/badge/Clean%20Code-%E2%9C%A8-06b6d4?style=for-the-badge" alt="clean code" />
   <img src="https://img.shields.io/badge/Night%20Coder-%F0%9F%8C%99-0ea5e9?style=for-the-badge" alt="night coder" />
+  <img src="https://img.shields.io/badge/Anime%20Mode-ON-ec4899?style=for-the-badge" alt="anime mode" />
+  <img src="https://img.shields.io/badge/Chill%20Vibes-%F0%9F%8C%B8-f59e0b?style=for-the-badge" alt="chill vibes" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216655810-70be0e3e-1e3a-4f33-aad0-0a0e7b2dd2d9.gif" width="140" alt="sticker 1" />
-  <img src="https://user-images.githubusercontent.com/74038190/216656982-8f7f327f-6b59-4fd0-8d18-39d7b31f3f9e.gif" width="140" alt="sticker 2" />
-  <img src="https://user-images.githubusercontent.com/74038190/216655827-7404f955-6f29-4685-b1a7-ff3b3f43d0d1.gif" width="140" alt="sticker 3" />
+  <img src="https://user-images.githubusercontent.com/74038190/216655810-70be0e3e-1e3a-4f33-aad0-0a0e7b2dd2d9.gif" width="130" alt="sticker 1" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656982-8f7f327f-6b59-4fd0-8d18-39d7b31f3f9e.gif" width="130" alt="sticker 2" />
+  <img src="https://user-images.githubusercontent.com/74038190/216655827-7404f955-6f29-4685-b1a7-ff3b3f43d0d1.gif" width="130" alt="sticker 3" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656986-5f7f7ea8-a2c4-4f90-a6be-0af9f0e3530f.gif" width="130" alt="sticker 4" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180" alt="anime sticker 1" />
+  <img src="https://media.giphy.com/media/9Y5BbDSkSTiY8/giphy.gif" width="180" alt="anime sticker 2" />
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="180" alt="anime sticker 3" />
 </div>
 
 ## Contribution Snake
