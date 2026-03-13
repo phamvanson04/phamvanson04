@@ -57,11 +57,18 @@
   <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,redis,docker,git,github,linux,postman,idea&perline=7" alt="tech stack" />
 </div>
 
-## Featured Project
+## Fun Zone
 <div align="center">
-  <a href="https://github.com/Cognira/learnify-lms">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cognira&repo=learnify-lms&theme=transparent&hide_border=true" alt="Learnify LMS" />
-  </a>
+  <img src="https://img.shields.io/badge/Coffee%20Powered-%E2%98%95-7c3aed?style=for-the-badge" alt="coffee" />
+  <img src="https://img.shields.io/badge/Bug%20Hunter-%F0%9F%94%8D-f43f5e?style=for-the-badge" alt="bug hunter" />
+  <img src="https://img.shields.io/badge/Clean%20Code-%E2%9C%A8-06b6d4?style=for-the-badge" alt="clean code" />
+  <img src="https://img.shields.io/badge/Night%20Coder-%F0%9F%8C%99-0ea5e9?style=for-the-badge" alt="night coder" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216655810-70be0e3e-1e3a-4f33-aad0-0a0e7b2dd2d9.gif" width="140" alt="sticker 1" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656982-8f7f327f-6b59-4fd0-8d18-39d7b31f3f9e.gif" width="140" alt="sticker 2" />
+  <img src="https://user-images.githubusercontent.com/74038190/216655827-7404f955-6f29-4685-b1a7-ff3b3f43d0d1.gif" width="140" alt="sticker 3" />
 </div>
 
 ## GitHub Analytics
