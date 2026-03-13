@@ -74,12 +74,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/216656986-5f7f7ea8-a2c4-4f90-a6be-0af9f0e3530f.gif" width="130" alt="sticker 4" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180" alt="anime sticker 1" />
-  <img src="https://media.giphy.com/media/9Y5BbDSkSTiY8/giphy.gif" width="180" alt="anime sticker 2" />
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="180" alt="anime sticker 3" />
-</div>
-
 ## Contribution Snake
 <div align="center">
   <picture>
